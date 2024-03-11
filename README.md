@@ -46,7 +46,26 @@ Users can perform all CRUD operations on courses.
 
 ## Getting Started
 
-1. Clone the repository
-2. cd frontend
-3.npm i
-4.npm start
+Clone the project
+
+```bash
+  git clone https://github.com/rk28284/EduHub
+```
+
+Go to the project directory
+
+```bash
+  cd frontend
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
