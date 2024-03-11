@@ -8,8 +8,7 @@ Eduhub is an education platform that provides high-quality materials to students
 - [Deployment](#deployment)
 - [Backend Endpoints](#backend-endpoints)
 - [Links](#links)
--[Getting Started](#getting started)
-
+- [Getting Started](#links)
 ## Tech Stack
 
 **Frontend:**
