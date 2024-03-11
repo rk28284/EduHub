@@ -50,7 +50,7 @@ export const Login = () => {
 
   return (
     <Box maxW="md" mx="auto" mt={8} p={6} borderWidth="1px" borderRadius="lg">
-    <h1></h1>
+    <h1>Welcome To Eduhub World</h1>
       <form onSubmit={handleSubmit}>
         <Stack spacing={4}>
           <FormControl id="username">
