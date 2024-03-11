@@ -8,6 +8,7 @@ Eduhub is an education platform that provides high-quality materials to students
 - [Deployment](#deployment)
 - [Backend Endpoints](#backend-endpoints)
 - [Links](#links)
+-[Getting Started](#getting started)
 
 ## Tech Stack
 
@@ -42,3 +43,10 @@ Users can perform all CRUD operations on courses.
 
 - **Frontend** - [https://65ee950793097cfa63fe7e84--symphonious-blini-23ecbc.netlify.app/](https://65ee950793097cfa63fe7e84--symphonious-blini-23ecbc.netlify.app/)
 - **Backend** - [https://eduhubbackend-50ca.onrender.com/](https://eduhubbackend-50ca.onrender.com/)
+
+## Getting Started
+
+1. Clone the repository
+2. cd frontend
+3.npm i
+4.npm start
