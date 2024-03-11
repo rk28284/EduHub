@@ -80,6 +80,10 @@ export const Login = () => {
         <Button variant="link">Forgot password?</Button>
         <Link href="/signup" ml={4}>Sign up</Link>
       </Box>
+      <Box mt={4}>
+        
+        <Link href="/adminlogin" ml={4}>Admin Access</Link>
+      </Box>
     </Box>
   );
 };
