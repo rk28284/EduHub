@@ -18,7 +18,7 @@ app.get("/",(req,res)=>{
 app.use("/user",userRouter)
 app.use(authentication)
 app.use('/api/courses', courseRoutes);
- app.use("/users", userRouter);
+
 app.listen(port,async()=>{
     try {
         await connection
